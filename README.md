@@ -4,3 +4,5 @@
 - Improved_FT.cpp : image.txtを読み込み, フーリエ変換を計算. その振幅画像をamplitude.txtとして出力.
 - RadialProfile.cpp : amplitude.txtを読み込み, 振幅をrの関数として再編, r_amp.txtとして出力. 
 
+追記
+- plot.ipynbの実行には約20minかかります
